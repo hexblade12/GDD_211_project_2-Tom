@@ -2990,7 +2990,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Larry- Happy Monday Gronk, isn\u2019t today special? Haha, Who am I kidding,
+  m_Text: "Larry-- Happy Monday Gronk, isn\u2019t today special? Haha, Who am I kidding,
     pretty sure this is the 13th Monday in a row."
 --- !u!222 &1511428308
 CanvasRenderer:
